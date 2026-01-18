@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   
+  
 }
 body, html, #root{
 width: 100%;
@@ -11,6 +12,7 @@ min-height: 100vh;
    padding: 0;
 overflow-x: hidden;
 padding-top: 26px;
+
 }
 .container{
   width: 100%;
@@ -27,7 +29,7 @@ padding-top: 26px;
 
 }
 .box{
-  width: 300px;
+  width: 250px;
   padding: 20px;
   padding: 4px sold #ddd;
   border-radius: 10px;
@@ -39,6 +41,233 @@ padding-top: 26px;
   box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
   transform: translateY(-5px);
   transition: all 0.3s ease;
+}
+
+.nav{
+  color: black;
+  cursor: pointer;
+}
+.nav:hover{
+  text-decoration: underline;
+  transition: all 0.3s ease;
+}
+.box2{
+  width: 250px;
+  padding: 20px;
+  padding: 4px sold #ddd;
+  border-radius: 10px;
+ background-color: #fff;
+ box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+ cursor: pointer;
+}
+.box2:hover{
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+.box3{
+  width: 250px;
+  padding: 20px;
+  padding: 4px sold #ddd;
+  border-radius: 10px;
+ background-color: #fff;
+ box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+ cursor: pointer;
+}
+.box3:hover{
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+.images{
+  width: 350px;
+  padding: 1px;
+  padding: 0px sold #ddd;
+  border-radius: 10px;
+ background-color: #fff;
+ box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+ cursor: pointer;
+}
+.images:hover{
+  box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+.images2{
+  width: 350px;
+  padding: 10px;
+  padding: 0px sold #ddd;
+  border-radius: 10px;
+ background-color: #fff;
+ box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+ cursor: pointer;
+}
+.images2:hover{
+  box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+.images3{
+  width: 350px;
+  padding: 10px;
+  padding: 0px sold #ddd;
+  border-radius: 10px;
+ background-color: #fff;
+ box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+ cursor: pointer;
+}
+.images3:hover{
+  box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+.images4{
+  width: 350px;
+  padding: 10px;
+  padding: 0px sold #ddd;
+  border-radius: 10px;
+ background-color: #fff;
+ box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+ cursor: pointer;
+}
+.images4:hover{
+  box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+.images5{
+  width: 350px;
+  padding: 10px;
+  padding: 0px sold #ddd;
+  border-radius: 10px;
+ background-color: #fff;
+ box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+ cursor: pointer;
+}
+.images5:hover{
+  box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+.images6{
+  width: 350px;
+  padding: 10px;
+  padding: 0px sold #ddd;
+  border-radius: 10px;
+ background-color: #fff;
+ box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+ cursor: pointer;
+}
+.images6:hover{
+  box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+.images7{
+  width: 350px;
+  padding: 10px;
+  padding: 0px sold #ddd;
+  border-radius: 10px;
+ background-color: #fff;
+ box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+ cursor: pointer;
+}
+.images7:hover{
+  box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+.images8{
+  width: 350px;
+  padding: 10px;
+  padding: 0px sold #ddd;
+  border-radius: 10px;
+ background-color: #fff;
+ box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+ cursor: pointer;
+}
+.images8:hover{
+  box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+.images9{
+  width: 350px;
+  padding: 10px;
+  padding: 0px sold #ddd;
+  border-radius: 10px;
+ background-color: #fff;
+ box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+ cursor: pointer;
+}
+.images9:hover{
+  box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+.image-container{
+  margin-top: 6rem;
+}
+.btnn{
+  background-color: darkgreen;
+  color: black;
+  padding: 5px 7px;
+}
+.btnn:hover{
+color: wheat;
+background-color: seagreen;
+  transition: all 0.3s ease;
+}
+
+.men{
+  width: 350px;
+  padding: 3px;
+  padding: 0px sold #ddd;
+  border-radius: 10px;
+ background-color: #fff;
+ box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+ cursor: pointer;
+}
+.men:hover{
+  box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+#bttn{
+ 
+  background-color: darkgreen;
+  color: black;
+  padding: 10px 12px;
+ border-radius: 10px;
+
+ 
+}
+#bttn:hover{
+color: rgb(189, 157, 99);
+background-color: seagreen;
+}
+#bbtn{
+ 
+  background-color: darkgreen;
+
+}
+
+#bbtn:hover{
+
+background-color: seagreen;
+}
+#mybtn{
+ 
+  background-color: darkgreen;
+  color: black;
+  padding: 10px 12px;
+ border-radius: 10px;
+
+ 
+}
+#mybtn:hover{
+color: rgb(189, 157, 99);
+background-color: seagreen;
 }
 
 
